@@ -1,0 +1,6 @@
+typing
+functools
+opencv-python
+numpy
+torch # pip install torch -f https://download.pytorch.org/whl/nightly/cu118/torch_nightly.html
+onnxruntime-gpu==1.16
